@@ -3,7 +3,7 @@ authors = ["liu <liu_fanyi@hotmail.com>"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "匪帮16届群评"
+title = "匪帮群评"
 
 [preprocessor.theme]
 pagetoc = true
